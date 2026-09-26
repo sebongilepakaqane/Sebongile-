@@ -1,0 +1,83 @@
+
+
+body{font-family:Arial;margin:0;
+  background:lightgray;
+  text-align:center;padding:15px;}
+header{background-color:darkblue;
+  color:white;text-align:
+  
+  center;padding:40px
+}
+nav{background-color:navy;
+  text-align:center;
+  padding:15px;
+}
+nav a{color:white;
+  text-color:white;
+  text-decoration:none;margin:10px;}
+nave a:hover{color:yellow;}
+main{width:90%;margin:20px auto;
+  text-align:center;}
+
+h2{color:darkblue;}
+.training{display:flex;
+  justify-content:center;
+}
+
+ .training img{width:100px;
+  height:100px;
+   margin:5px;}
+
+.button{background-color:gold;
+  color:darkblue;padding:10px 20px;
+  text-decoration:none;
+  display:inline-block;
+  margin:10px;}
+
+.button:{background-color:darkblue;
+  color:white;}
+
+.apply{width:400px;margin:40px auto;}
+
+.apply form{display:flex;
+  flex-direction:column;gap:10px;}
+
+
+label{display:block;margin-top:10px;}
+input,
+select,
+textarea{width:100%;padding:8px;
+  margin-top:5px;box-sizing:
+  border-box;
+}
+button{background-color: darkblue;
+  color:white;
+  padding:10px 20px;
+border:none;margin-top:15px;}
+
+footer{background-color: darkblue;
+  color:white;font-weight:bold;
+  text-align:center;
+  padding: 15px;margin-top:30px;}
+ul{display:inline-block;
+  text-align:left;}
+.course{text-align:center;}
+.course img{width:80px;
+  height:90px;
+  object-fit:cover;}
+  
+
+.Courses{display:grid;
+  grid-template-columns:
+  1fr 1fr 1fr;gap:20px;}
+
+
+.course h2{margin-top:5px;}
+.Logo{width:60px;height:50px;
+  display:block;margin:10px auto;
+top:10px;left:10px;}
+footer img{ width:40px;
+  height:40px;border-radius:50%;
+  background-color:blue;}
+.course-duration{text-align:center;font-size:16px;
+  font-weight:bold;color:darkblue;margin-button:20px;}

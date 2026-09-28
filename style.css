@@ -62,7 +62,7 @@ footer{background-color: darkblue;
 ul{display:inline-block;
   text-align:left;}
 .course{text-align:center;}
-.course img{width:100%;
+.course img{width:120%;
   height:100px;
   object-fit:cover;}
   

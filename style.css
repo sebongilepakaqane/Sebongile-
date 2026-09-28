@@ -6,16 +6,16 @@ body{font-family:Arial;margin:0;
 header{background-color:darkblue;
   color:white;text-align:
   
-  center;padding:40px
+  center;padding:15px
 }
 nav{background-color:navy;
   text-align:center;
   padding:15px;
 }
-nav a{color:white;
+nav a{color:darkblue;
   text-color:white;
-  text-decoration:none;margin:10px;}
-nave a:hover{color:yellow;}
+  text-decoration:none;margin:10px;font-weight:bold;}
+ a:hover{color:yellow;}
 main{width:90%;margin:20px auto;
   text-align:center;}
 
@@ -24,8 +24,8 @@ h2{color:darkblue;}
   justify-content:center;
 }
 
- .training img{width:100px;
-  height:100px;
+ .training img{width:110px;
+  height:110px;
    margin:5px;}
 
 .button{background-color:gold;
@@ -62,8 +62,8 @@ footer{background-color: darkblue;
 ul{display:inline-block;
   text-align:left;}
 .course{text-align:center;}
-.course img{width:80px;
-  height:90px;
+.course img{width:100%;
+  height:100px;
   object-fit:cover;}
   
 
@@ -79,5 +79,7 @@ top:10px;left:10px;}
 footer img{ width:40px;
   height:40px;border-radius:50%;
   background-color:blue;}
-.course-duration{text-align:center;font-size:16px;
-  font-weight:bold;color:darkblue;margin-button:20px;}
+.course-duration{text-align:center;
+                 font-size:16px;
+  font-weight:bold;
+                 color:darkblue;margin-button:20px;}

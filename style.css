@@ -8,6 +8,8 @@ header{background-color:darkblue;
   
   center;padding:15px
 }
+header5{font-size:10px;font-weight:bold;
+        margin-top:15px;color:white;
 nav{background-color:darkblue;
     color:navy;
   text-align:center;
@@ -16,16 +18,16 @@ nav{background-color:darkblue;
 nav a{color:white;
   text-color:white;
   text-decoration:none;margin:10px;font-weight:bold;}
- a:hover{color:yellow;}
+ 
 main{width:90%;margin:20px auto;
-  text-align:center;}
+  text-align:center;max-width:1000px;}
 
 h2{color:darkblue;}
 .training{display:flex;
   justify-content:center;
 }
 
- .training img{width:110px;
+ .training img{width:150px;
   height:110px;
    margin:5px;}
 
@@ -63,9 +65,9 @@ footer{background-color: darkblue;
 ul{display:inline-block;
   text-align:left;}
 .course{text-align:center;}
-.course img{width:120%;
-  height:100px;
-  object-fit:cover;}
+.course img{width:120px;
+  height:120px;
+  object-fit:cover:5px;}
   
 
 .Courses{display:grid;

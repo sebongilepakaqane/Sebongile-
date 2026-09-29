@@ -19,15 +19,15 @@ nav a{color:white;
   text-decoration:none;margin:10px;font-weight:bold;}
  
 main{width:90%;margin:20px auto;
-  text-align:center;max-width:1000px;}
+  text-align:center;}
 
 h2{color:darkblue;}
 .training{display:flex;
   justify-content:center;
 }
 
- .training img{width:150px;
-  height:110px;
+ .training img{width:100px;
+  height:100px;
    margin:5px;}
 
 .button{background-color:gold;
